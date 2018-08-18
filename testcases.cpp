@@ -293,11 +293,11 @@ cout << "\nTPE ALL test cases FAILED";
 
 int main()
 {
-//checkTokenize();
-//checkParse();
-//checkEval();
+checkTokenize();
+checkParse();
+checkEval();
 checkTPE();
-//checkTPEOut();
+checkTPEOut();
 	
 
 
