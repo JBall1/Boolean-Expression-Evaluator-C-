@@ -11,3 +11,6 @@ Some of the rules this follows: NOTE: A Boolean constant is ["T"] or ["F"]. An u
 
 Or in more simpler terms: Const → "T" | "F" U → Const | "(" B ")" N → U | "~" N C → N | C "^" N D → C | D "v" C
 I → D | D "=>" I B → I | I "<=>" B
+
+
+To use test cases, simply copy and paste it at the bottom of the main.cpp and ensure there is no main already in the file.
